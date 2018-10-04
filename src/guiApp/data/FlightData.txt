@@ -1,0 +1,700 @@
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201711, 100.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 133.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201101, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201512, 887.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0
+Brisbane, Canberra, 201111, 158.0
+Adelaide, Perth, 201001, 388.0
+Albury, Sydney, 201502, 1333.0
+Alice Spring, Sydney, 201001, 458.0
+Avalon, Brisbane, 201710, 158.0
+Avalon, Sydney, 201804, 78.0
+Ayers Rock, Sydney, 201712, 618.0
+Banilla, Sydney, 201001, 148.0
+Brisbane, Cairns, 201001, 188.0
+Brisbane, Hamilton Island, 201811, 120.0
+Adelaide, Gold Coast, 201604, 128.0
+Brisbane, Perth, 201707, 438.0
+Brisbane, Rockhampton, 201005, 87.0
+Canberra, Melbourne, 201001, 76.0
+Adelaide, Sydney, 201101, 116.0
+Alice Springs, Darwin, 201004, 428.0
+Cairns, Sydney, 201301, 68.0

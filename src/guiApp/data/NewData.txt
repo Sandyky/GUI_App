@@ -1,0 +1,701 @@
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 100.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 133.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 887.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Brisbane, Canberra, 158.0
+Adelaide, Perth, 388.0
+Albury, Sydney, 1333.0
+Alice Spring, Sydney, 458.0
+Avalon, Brisbane, 158.0
+Avalon, Sydney, 78.0
+Ayers Rock, Sydney, 618.0
+Banilla, Sydney, 148.0
+Brisbane, Cairns, 188.0
+Brisbane, Hamilton Island, 120.0
+Adelaide, Gold Coast, 128.0
+Brisbane, Perth, 438.0
+Brisbane, Rockhampton, 87.0
+Canberra, Melbourne, 76.0
+Adelaide, Sydney, 116.0
+Alice Springs, Darwin, 428.0
+Cairns, Sydney, 68.0
+Number of total flights:700
